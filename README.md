@@ -1,2 +1,3 @@
-# python-for-excel-users
-Python for Excel users materials
+# Introduction to Python for Excel users materials
+
+![cover](images/cover.png)
